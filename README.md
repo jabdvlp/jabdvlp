@@ -1,2 +1,2 @@
-# Hi, i'm José Acacio and iḿ here to code with you.
+# Hi, i'm José Acacio and i'm here to code with you.
 ## JabDvlp
